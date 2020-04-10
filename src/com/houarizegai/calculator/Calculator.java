@@ -559,7 +559,7 @@ public class Calculator {
         if (opt == '+') {
             return x + y;
         } else if (opt == '-') {
-            return x - y;
+            return x - y; 
         } else if (opt == '*') {
             return x * y;
         } else if (opt == '/') {
